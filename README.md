@@ -4,6 +4,9 @@ This Tool is used in Directory option
 
 
    apt install python python2 git
+
    git clone https://github.com/BOT-CODER/PY_CODER.git
+
    cd PY_CODER/
+
    python Dirpy.py
