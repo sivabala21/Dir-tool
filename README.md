@@ -16,4 +16,5 @@ This Tool is used in Directory option
 
 
   chmod +x script.sh
+
   ./script.sh
