@@ -10,3 +10,10 @@ This Tool is used in Directory option
    cd PY_CODER/
 
    python Dirpy.py
+
+
+............ Or.................. 
+
+
+  chmod +x script.sh
+  ./script.sh
