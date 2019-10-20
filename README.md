@@ -16,4 +16,4 @@
     
  ```   
     
-             >  `Thank you 💟`
+         Thank you for using my script💟
