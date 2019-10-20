@@ -1,12 +1,12 @@
 
-########## Welcome to My Github page 👋
+###### Welcome to My Github page 👋
 
 
 
 
 # DIRTOOL
 
-###Installtion
+### Installtion
 			
 [*]To install and run my script Type my following commads
 
