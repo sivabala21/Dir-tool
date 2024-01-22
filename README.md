@@ -16,4 +16,3 @@
     
  ```   
     
-         Thank you for using my script💟
